@@ -1,0 +1,300 @@
+id,long_name
+1601,Ruch Chorzów
+1773,Oud-Heverlee Leuven
+1957,Jagiellonia Białystok
+2033,S.C. Olhanense
+2182,Lech Poznań
+2183,P. Warszawa
+2186,Cracovia
+4049,Tubize
+4064,Feirense
+4087,Évian Thonon Gaillard FC
+4170,US Boulogne Cote D'Opale
+6269,Novara
+6351,KAS Eupen
+6367,Uniao da Madeira
+6391,GFC Ajaccio
+6403,FC Paços de Ferreira
+6413,PEC Zwolle
+6421,Leixões SC
+6433,Go Ahead Eagles
+6493,AC Bellinzona
+6547,FC Penafiel
+6601,FC Volendam
+6631,FC Dordrecht
+7730,FC Lausanne-Sports
+7788,SC Cambuur
+7794,SC Bastia
+7819,SM Caen
+7841,Rio Ave FC
+7842,Estoril Praia
+7844,Vitória Guimarães
+7869,Córdoba CF
+7878,Granada CF
+7896,Lugano
+7943,Sassuolo
+7947,FCV Dender EH
+7955,Neuchâtel Xamax
+7992,Trofense
+8019,Górnik Łęczna
+8020,Polonia Bytom
+8021,Zagłębie Lubin
+8023,Pogoń Szczecin
+8024,Widzew Łódź
+8025,Śląsk Wrocław
+8027,Zawisza Bydgoszcz
+8028,Piast Gliwice
+8030,Lechia Gdańsk
+8031,Polonia Bytom
+8033,Podbeskidzie Bielsko-Biała
+8066,Inverness Caledonian Thistle
+8121,Angers SCO
+8152,FC St. Pauli
+8165,1. FC Nürnberg
+8177,Hertha BSC Berlin
+8178,Bayer 04 Leverkusen
+8191,Burnley
+8194,Fortuna Düsseldorf
+8197,Leicester City
+8203,KV Mechelen
+8226,TSG 1899 Hoffenheim
+8234,FC Ingolstadt 04
+8242,Odra Wodzisław
+8244,Widzew Łódź
+8245,Korona Kielce
+8262,SV Darmstadt 98
+8277,Vitesse
+8284,Dundee FC
+8295,Karlsruher SC
+8302,Sevilla FC
+8305,Getafe CF
+8306,UD Las Palmas
+8315,Athletic Club de Bilbao
+8322,Arka Gdynia
+8342,Club Brugge KV
+8344,Cardiff City
+8348,Moreirense FC
+8350,1. FC Kaiserslautern
+8357,SpVgg Greuther Fürth
+8358,SC Freiburg
+8370,Rayo Vallecano
+8371,CA Osasuna
+8372,SD Eibar
+8388,CD Numancia
+8394,Real Zaragoza
+8398,FC Energie Cottbus
+8406,FC Augsburg
+8426,Partick Thistle F.C.
+8429,Hamilton Academical FC
+8455,Chelsea
+8456,Manchester City
+8457,Dunfermline Athletic
+8460,SC Paderborn 07
+8462,Portsmouth
+8464,N.E.C.
+8466,Southampton
+8467,St. Johnstone FC
+8472,Sunderland
+8475,Waasland-Beveren
+8479,RC Recreativo
+8481,AS Nancy-Lorraine
+8483,Blackpool
+8485,Aberdeen
+8521,Stade Brestois 29
+8524,Atalanta
+8525,Willem II
+8526,De Graafschap
+8528,Wigan Athletic
+8529,Cagliari
+8530,Catania
+8533,Chievo Verona
+8534,Empoli
+8535,Fiorentina
+8537,Livorno
+8540,Palermo
+8543,Lazio
+8548,Rangers
+8549,Middlesbrough
+8550,FC Metz
+8551,Siena
+8558,RCD Espanyol
+8559,Bolton Wanderers
+8560,Real Sociedad
+8564,Milan
+8569,GKS Bełchatów
+8571,KV Kortrijk
+8573,KV Oostende
+8576,AC Ajaccio
+8581,Levante UD
+8583,AJ Auxerre
+8586,Tottenham Hotspur
+8588,RC Lens
+8592,Olympique de Marseille
+8593,Ajax
+8596,Falkirk
+8597,Kilmarnock
+8600,Udinese
+8602,Wolverhampton Wanderers
+8603,Real Betis Balompié
+8611,FC Twente
+8613,Boavista FC
+8614,Sparta Rotterdam
+8633,Real Madrid CF
+8634,FC Barcelona
+8635,RSC Anderlecht
+8636,Inter
+8639,LOSC Lille
+8640,PSV
+8649,Ross County FC
+8650,Liverpool
+8654,West Ham United
+8655,Blackburn Rovers
+8658,Birmingham City
+8659,West Bromwich Albion
+8661,RCD Mallorca
+8667,Hull City
+8668,Everton
+8673,Legia Warszawa
+8674,FC Groningen
+8678,Bournemouth
+8682,Le Mans FC
+8686,Roma
+8689,FC Lorient
+8690,Reggio Calabria
+8696,Racing Santander
+8697,SV Werder Bremen
+8721,VfL Wolfsburg
+8722,1. FC Köln
+9746,Le Havre AC
+9747,En Avant de Guingamp
+9748,Olympique Lyonnais
+9761,NAC Breda
+9764,Gil Vicente FC
+9765,Portimonense
+9768,Sporting CP
+9771,"União de Leiria, SAD"
+9772,SL Benfica
+9773,FC Porto
+9776,Eintracht Braunschweig
+9777,Servette FC
+9783,RC Deportivo de La Coruña
+9788,Borussia Mönchengladbach
+9789,Borussia Dortmund
+9790,Hamburger SV
+9791,Heracles Almelo
+9798,Reading
+9800,St. Mirren
+9803,Roda JC Kerkrade
+9804,Torino
+9807,CF Os Belenenses
+9809,Naval 1° de Maio
+9810,Eintracht Frankfurt
+9817,Watford
+9823,FC Bayern Munich
+9824,FC Vaduz
+9825,Arsenal
+9826,Crystal Palace
+9827,Girondins de Bordeaux
+9829,AS Monaco
+9830,FC Nantes
+9831,OGC Nice
+9836,Dijon FCO
+9837,Stade de Reims
+9839,VVV-Venlo
+9847,Paris Saint-Germain
+9850,Norwich City
+9851,Stade Rennais FC
+9853,AS Saint-Étienne
+9855,Grenoble Foot 38
+9857,Bologna
+9858,Brescia
+9860,Heart of Midlothian
+9864,Málaga CF
+9865,UD Almería
+9867,CD Tenerife
+9868,Xerez Club Deportivo
+9869,Real Sporting de Gijón
+9873,Valenciennes FC
+9874,FC Sochaux-Montbéliard
+9875,Napoli
+9876,Hellas Verona
+9878,Pescara
+9879,Fulham
+9880,Cesena
+9882,Sampdoria
+9885,Juventus
+9888,Lecce
+9891,Frosinone
+9904,Hannover 96
+9905,1. FSV Mainz 05
+9906,Atlético Madrid
+9908,FC Utrecht
+9910,RC Celta de Vigo
+9911,VfL Bochum
+9912,DSC Arminia Bielefeld
+9925,Celtic
+9927,Motherwell
+9930,FC Aarau
+9931,FC Basel
+9938,Dundee United
+9941,Toulouse FC
+9956,Grasshopper Club Zürich
+9976,Bari
+9984,KSV Cercle Brugge
+9985,Standard de Liège
+9986,Sporting Charleroi
+9987,KRC Genk
+9989,Lierse SK
+9991,KAA Gent
+9993,Beerschot AC
+9994,Sporting Lokeren
+9996,Royal Excel Mouscron
+9997,Sint-Truidense VV
+9998,RAEC Mons
+9999,KSV Roeselare
+10000,SV Zulte-Waregem
+10001,KVC Westerlo
+10003,Swansea City
+10167,Parma
+10172,Queens Park Rangers
+10179,FC Sion
+10189,FC Schalke 04
+10190,FC St. Gallen
+10191,FC Thun
+10192,BSC Young Boys
+10194,Stoke City
+10199,FC Luzern
+10205,Villarreal CF
+10211,SC Beira Mar
+10212,CS Marítimo
+10213,Amadora
+10214,CD Nacional
+10215,Académica de Coimbra
+10217,ADO Den Haag
+10218,Excelsior
+10219,RKC Waalwijk
+10228,SC Heerenveen
+10229,AZ
+10233,Genoa
+10235,Feyenoord
+10238,Vitória Setúbal
+10242,ES Troyes AC
+10243,FC Zürich
+10249,Montpellier Hérault SC
+10251,Hibernian
+10252,Aston Villa
+10260,Manchester United
+10261,Newcastle United
+10264,SC Braga
+10265,Wisła Kraków
+10267,Valencia CF
+10268,Elche CF
+10269,VfB Stuttgart
+10278,Hércules Club de Fútbol
+10281,Real Valladolid
+108893,AC Arles-Avignon
+158085,FC Arouca
+177361,Termalica Bruk-Bet Nieciecza
+188163,Tondela
+208931,Carpi
+274581,Royal Excel Mouscron

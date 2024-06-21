@@ -1,0 +1,3298 @@
+-- Team-Data
+
+PRAGMA foreign_keys = off;
+BEGIN TRANSACTION;
+
+
+INSERT INTO Team (
+                     id,
+                     long_name,
+                     short_name
+                 )
+                 VALUES (
+                     1601,
+                     'Ruch Chorzów',
+                     'CHO'
+                 );
+
+INSERT INTO Team (
+                     id,
+                     long_name,
+                     short_name
+                 )
+                 VALUES (
+                     1773,
+                     'Oud-Heverlee Leuven',
+                     'O-H'
+                 );
+
+INSERT INTO Team (
+                     id,
+                     long_name,
+                     short_name
+                 )
+                 VALUES (
+                     1957,
+                     'Jagiellonia Białystok',
+                     'BIA'
+                 );
+
+INSERT INTO Team (
+                     id,
+                     long_name,
+                     short_name
+                 )
+                 VALUES (
+                     2033,
+                     'S.C. Olhanense',
+                     'OLH'
+                 );
+
+INSERT INTO Team (
+                     id,
+                     long_name,
+                     short_name
+                 )
+                 VALUES (
+                     2182,
+                     'Lech Poznań',
+                     'POZ'
+                 );
+
+INSERT INTO Team (
+                     id,
+                     long_name,
+                     short_name
+                 )
+                 VALUES (
+                     2183,
+                     'P. Warszawa',
+                     'PWA'
+                 );
+
+INSERT INTO Team (
+                     id,
+                     long_name,
+                     short_name
+                 )
+                 VALUES (
+                     2186,
+                     'Cracovia',
+                     'CKR'
+                 );
+
+INSERT INTO Team (
+                     id,
+                     long_name,
+                     short_name
+                 )
+                 VALUES (
+                     4049,
+                     'Tubize',
+                     'TUB'
+                 );
+
+INSERT INTO Team (
+                     id,
+                     long_name,
+                     short_name
+                 )
+                 VALUES (
+                     4064,
+                     'Feirense',
+                     'FEI'
+                 );
+
+INSERT INTO Team (
+                     id,
+                     long_name,
+                     short_name
+                 )
+                 VALUES (
+                     4087,
+                     'Évian Thonon Gaillard FC',
+                     'ETG'
+                 );
+
+INSERT INTO Team (
+                     id,
+                     long_name,
+                     short_name
+                 )
+                 VALUES (
+                     4170,
+                     'US Boulogne Cote D''Opale',
+                     'BOU'
+                 );
+
+INSERT INTO Team (
+                     id,
+                     long_name,
+                     short_name
+                 )
+                 VALUES (
+                     6269,
+                     'Novara',
+                     'NOV'
+                 );
+
+INSERT INTO Team (
+                     id,
+                     long_name,
+                     short_name
+                 )
+                 VALUES (
+                     6351,
+                     'KAS Eupen',
+                     'EUP'
+                 );
+
+INSERT INTO Team (
+                     id,
+                     long_name,
+                     short_name
+                 )
+                 VALUES (
+                     6367,
+                     'Uniao da Madeira',
+                     'MAD'
+                 );
+
+INSERT INTO Team (
+                     id,
+                     long_name,
+                     short_name
+                 )
+                 VALUES (
+                     6391,
+                     'GFC Ajaccio',
+                     'GAJ'
+                 );
+
+INSERT INTO Team (
+                     id,
+                     long_name,
+                     short_name
+                 )
+                 VALUES (
+                     6403,
+                     'FC Paços de Ferreira',
+                     'FER'
+                 );
+
+INSERT INTO Team (
+                     id,
+                     long_name,
+                     short_name
+                 )
+                 VALUES (
+                     6413,
+                     'PEC Zwolle',
+                     'ZWO'
+                 );
+
+INSERT INTO Team (
+                     id,
+                     long_name,
+                     short_name
+                 )
+                 VALUES (
+                     6421,
+                     'Leixões SC',
+                     'LEI'
+                 );
+
+INSERT INTO Team (
+                     id,
+                     long_name,
+                     short_name
+                 )
+                 VALUES (
+                     6433,
+                     'Go Ahead Eagles',
+                     'GAE'
+                 );
+
+INSERT INTO Team (
+                     id,
+                     long_name,
+                     short_name
+                 )
+                 VALUES (
+                     6493,
+                     'AC Bellinzona',
+                     'BEL'
+                 );
+
+INSERT INTO Team (
+                     id,
+                     long_name,
+                     short_name
+                 )
+                 VALUES (
+                     6547,
+                     'FC Penafiel',
+                     'PEN'
+                 );
+
+INSERT INTO Team (
+                     id,
+                     long_name,
+                     short_name
+                 )
+                 VALUES (
+                     6601,
+                     'FC Volendam',
+                     'VOL'
+                 );
+
+INSERT INTO Team (
+                     id,
+                     long_name,
+                     short_name
+                 )
+                 VALUES (
+                     6631,
+                     'FC Dordrecht',
+                     'DOR'
+                 );
+
+INSERT INTO Team (
+                     id,
+                     long_name,
+                     short_name
+                 )
+                 VALUES (
+                     7730,
+                     'FC Lausanne-Sports',
+                     'LAU'
+                 );
+
+INSERT INTO Team (
+                     id,
+                     long_name,
+                     short_name
+                 )
+                 VALUES (
+                     7788,
+                     'SC Cambuur',
+                     'CAM'
+                 );
+
+INSERT INTO Team (
+                     id,
+                     long_name,
+                     short_name
+                 )
+                 VALUES (
+                     7794,
+                     'SC Bastia',
+                     'BAS'
+                 );
+
+INSERT INTO Team (
+                     id,
+                     long_name,
+                     short_name
+                 )
+                 VALUES (
+                     7819,
+                     'SM Caen',
+                     'CAE'
+                 );
+
+INSERT INTO Team (
+                     id,
+                     long_name,
+                     short_name
+                 )
+                 VALUES (
+                     7841,
+                     'Rio Ave FC',
+                     'RA'
+                 );
+
+INSERT INTO Team (
+                     id,
+                     long_name,
+                     short_name
+                 )
+                 VALUES (
+                     7842,
+                     'Estoril Praia',
+                     'EST'
+                 );
+
+INSERT INTO Team (
+                     id,
+                     long_name,
+                     short_name
+                 )
+                 VALUES (
+                     7844,
+                     'Vitória Guimarães',
+                     'GUI'
+                 );
+
+INSERT INTO Team (
+                     id,
+                     long_name,
+                     short_name
+                 )
+                 VALUES (
+                     7869,
+                     'Córdoba CF',
+                     'COR'
+                 );
+
+INSERT INTO Team (
+                     id,
+                     long_name,
+                     short_name
+                 )
+                 VALUES (
+                     7878,
+                     'Granada CF',
+                     'GRA'
+                 );
+
+INSERT INTO Team (
+                     id,
+                     long_name,
+                     short_name
+                 )
+                 VALUES (
+                     7896,
+                     'Lugano',
+                     'LUG'
+                 );
+
+INSERT INTO Team (
+                     id,
+                     long_name,
+                     short_name
+                 )
+                 VALUES (
+                     7943,
+                     'Sassuolo',
+                     'SAS'
+                 );
+
+INSERT INTO Team (
+                     id,
+                     long_name,
+                     short_name
+                 )
+                 VALUES (
+                     7947,
+                     'FCV Dender EH',
+                     'DEN'
+                 );
+
+INSERT INTO Team (
+                     id,
+                     long_name,
+                     short_name
+                 )
+                 VALUES (
+                     7955,
+                     'Neuchâtel Xamax',
+                     'XAM'
+                 );
+
+INSERT INTO Team (
+                     id,
+                     long_name,
+                     short_name
+                 )
+                 VALUES (
+                     7992,
+                     'Trofense',
+                     'TRO'
+                 );
+
+INSERT INTO Team (
+                     id,
+                     long_name,
+                     short_name
+                 )
+                 VALUES (
+                     8019,
+                     'Górnik Łęczna',
+                     'LEC'
+                 );
+
+INSERT INTO Team (
+                     id,
+                     long_name,
+                     short_name
+                 )
+                 VALUES (
+                     8020,
+                     'Polonia Bytom',
+                     'GOR'
+                 );
+
+INSERT INTO Team (
+                     id,
+                     long_name,
+                     short_name
+                 )
+                 VALUES (
+                     8021,
+                     'Zagłębie Lubin',
+                     'ZAG'
+                 );
+
+INSERT INTO Team (
+                     id,
+                     long_name,
+                     short_name
+                 )
+                 VALUES (
+                     8023,
+                     'Pogoń Szczecin',
+                     'POG'
+                 );
+
+INSERT INTO Team (
+                     id,
+                     long_name,
+                     short_name
+                 )
+                 VALUES (
+                     8024,
+                     'Wid,zew Łódź',
+                     'Wid,'
+                 );
+
+INSERT INTO Team (
+                     id,
+                     long_name,
+                     short_name
+                 )
+                 VALUES (
+                     8025,
+                     'Śląsk Wrocław',
+                     'SLA'
+                 );
+
+INSERT INTO Team (
+                     id,
+                     long_name,
+                     short_name
+                 )
+                 VALUES (
+                     8027,
+                     'Zawisza Bydgoszcz',
+                     'ZAW'
+                 );
+
+INSERT INTO Team (
+                     id,
+                     long_name,
+                     short_name
+                 )
+                 VALUES (
+                     8028,
+                     'Piast Gliwice',
+                     'PIG'
+                 );
+
+INSERT INTO Team (
+                     id,
+                     long_name,
+                     short_name
+                 )
+                 VALUES (
+                     8030,
+                     'Lechia Gdańsk',
+                     'LGD'
+                 );
+
+INSERT INTO Team (
+                     id,
+                     long_name,
+                     short_name
+                 )
+                 VALUES (
+                     8031,
+                     'Polonia Bytom',
+                     'POB'
+                 );
+
+INSERT INTO Team (
+                     id,
+                     long_name,
+                     short_name
+                 )
+                 VALUES (
+                     8033,
+                     'Podbeskid,zie Bielsko-Biała',
+                     'POD'
+                 );
+
+INSERT INTO Team (
+                     id,
+                     long_name,
+                     short_name
+                 )
+                 VALUES (
+                     8066,
+                     'Inverness Caledonian Thistle',
+                     'INV'
+                 );
+
+INSERT INTO Team (
+                     id,
+                     long_name,
+                     short_name
+                 )
+                 VALUES (
+                     8121,
+                     'Angers SCO',
+                     'ANG'
+                 );
+
+INSERT INTO Team (
+                     id,
+                     long_name,
+                     short_name
+                 )
+                 VALUES (
+                     8152,
+                     'FC St. Pauli',
+                     'STP'
+                 );
+
+INSERT INTO Team (
+                     id,
+                     long_name,
+                     short_name
+                 )
+                 VALUES (
+                     8165,
+                     '1. FC Nürnberg',
+                     'NUR'
+                 );
+
+INSERT INTO Team (
+                     id,
+                     long_name,
+                     short_name
+                 )
+                 VALUES (
+                     8177,
+                     'Hertha BSC Berlin',
+                     'HBE'
+                 );
+
+INSERT INTO Team (
+                     id,
+                     long_name,
+                     short_name
+                 )
+                 VALUES (
+                     8178,
+                     'Bayer 04 Leverkusen',
+                     'LEV'
+                 );
+
+INSERT INTO Team (
+                     id,
+                     long_name,
+                     short_name
+                 )
+                 VALUES (
+                     8191,
+                     'Burnley',
+                     'BUR'
+                 );
+
+INSERT INTO Team (
+                     id,
+                     long_name,
+                     short_name
+                 )
+                 VALUES (
+                     8194,
+                     'Fortuna Düsseldorf',
+                     'FDU'
+                 );
+
+INSERT INTO Team (
+                     id,
+                     long_name,
+                     short_name
+                 )
+                 VALUES (
+                     8197,
+                     'Leicester City',
+                     'LEI'
+                 );
+
+INSERT INTO Team (
+                     id,
+                     long_name,
+                     short_name
+                 )
+                 VALUES (
+                     8203,
+                     'KV Mechelen',
+                     'MEC'
+                 );
+
+INSERT INTO Team (
+                     id,
+                     long_name,
+                     short_name
+                 )
+                 VALUES (
+                     8226,
+                     'TSG 1899 Hoffenheim',
+                     'HOF'
+                 );
+
+INSERT INTO Team (
+                     id,
+                     long_name,
+                     short_name
+                 )
+                 VALUES (
+                     8234,
+                     'FC Ingolstadt 04',
+                     'ING'
+                 );
+
+INSERT INTO Team (
+                     id,
+                     long_name,
+                     short_name
+                 )
+                 VALUES (
+                     8242,
+                     'Odra Wodzisław',
+                     'ODR'
+                 );
+
+INSERT INTO Team (
+                     id,
+                     long_name,
+                     short_name
+                 )
+                 VALUES (
+                     8244,
+                     'Wid,zew Łódź',
+                     'LOD'
+                 );
+
+INSERT INTO Team (
+                     id,
+                     long_name,
+                     short_name
+                 )
+                 VALUES (
+                     8245,
+                     'Korona Kielce',
+                     'KKI'
+                 );
+
+INSERT INTO Team (
+                     id,
+                     long_name,
+                     short_name
+                 )
+                 VALUES (
+                     8262,
+                     'SV Darmstadt 98',
+                     'DAR'
+                 );
+
+INSERT INTO Team (
+                     id,
+                     long_name,
+                     short_name
+                 )
+                 VALUES (
+                     8277,
+                     'Vitesse',
+                     'VIT'
+                 );
+
+INSERT INTO Team (
+                     id,
+                     long_name,
+                     short_name
+                 )
+                 VALUES (
+                     8284,
+                     'Dundee FC',
+                     'DUF'
+                 );
+
+INSERT INTO Team (
+                     id,
+                     long_name,
+                     short_name
+                 )
+                 VALUES (
+                     8295,
+                     'Karlsruher SC',
+                     'KAR'
+                 );
+
+INSERT INTO Team (
+                     id,
+                     long_name,
+                     short_name
+                 )
+                 VALUES (
+                     8302,
+                     'Sevilla FC',
+                     'SEV'
+                 );
+
+INSERT INTO Team (
+                     id,
+                     long_name,
+                     short_name
+                 )
+                 VALUES (
+                     8305,
+                     'Getafe CF',
+                     'GET'
+                 );
+
+INSERT INTO Team (
+                     id,
+                     long_name,
+                     short_name
+                 )
+                 VALUES (
+                     8306,
+                     'UD Las Palmas',
+                     'LAS'
+                 );
+
+INSERT INTO Team (
+                     id,
+                     long_name,
+                     short_name
+                 )
+                 VALUES (
+                     8315,
+                     'Athletic Club de Bilbao',
+                     'BIL'
+                 );
+
+INSERT INTO Team (
+                     id,
+                     long_name,
+                     short_name
+                 )
+                 VALUES (
+                     8322,
+                     'Arka Gdynia',
+                     'ARK'
+                 );
+
+INSERT INTO Team (
+                     id,
+                     long_name,
+                     short_name
+                 )
+                 VALUES (
+                     8342,
+                     'Club Brugge KV',
+                     'CLB'
+                 );
+
+INSERT INTO Team (
+                     id,
+                     long_name,
+                     short_name
+                 )
+                 VALUES (
+                     8344,
+                     'Cardiff City',
+                     'CAR'
+                 );
+
+INSERT INTO Team (
+                     id,
+                     long_name,
+                     short_name
+                 )
+                 VALUES (
+                     8348,
+                     'Moreirense FC',
+                     'MOR'
+                 );
+
+INSERT INTO Team (
+                     id,
+                     long_name,
+                     short_name
+                 )
+                 VALUES (
+                     8350,
+                     '1. FC Kaiserslautern',
+                     'KAI'
+                 );
+
+INSERT INTO Team (
+                     id,
+                     long_name,
+                     short_name
+                 )
+                 VALUES (
+                     8357,
+                     'SpVgg Greuther Fürth',
+                     'GRF'
+                 );
+
+INSERT INTO Team (
+                     id,
+                     long_name,
+                     short_name
+                 )
+                 VALUES (
+                     8358,
+                     'SC Freiburg',
+                     'FRE'
+                 );
+
+INSERT INTO Team (
+                     id,
+                     long_name,
+                     short_name
+                 )
+                 VALUES (
+                     8370,
+                     'Rayo Vallecano',
+                     'RAY'
+                 );
+
+INSERT INTO Team (
+                     id,
+                     long_name,
+                     short_name
+                 )
+                 VALUES (
+                     8371,
+                     'CA Osasuna',
+                     'OSA'
+                 );
+
+INSERT INTO Team (
+                     id,
+                     long_name,
+                     short_name
+                 )
+                 VALUES (
+                     8372,
+                     'SD Eibar',
+                     'EIB'
+                 );
+
+INSERT INTO Team (
+                     id,
+                     long_name,
+                     short_name
+                 )
+                 VALUES (
+                     8388,
+                     'CD Numancia',
+                     'NUM'
+                 );
+
+INSERT INTO Team (
+                     id,
+                     long_name,
+                     short_name
+                 )
+                 VALUES (
+                     8394,
+                     'Real Zaragoza',
+                     'ZAR'
+                 );
+
+INSERT INTO Team (
+                     id,
+                     long_name,
+                     short_name
+                 )
+                 VALUES (
+                     8398,
+                     'FC Energie Cottbus',
+                     'COT'
+                 );
+
+INSERT INTO Team (
+                     id,
+                     long_name,
+                     short_name
+                 )
+                 VALUES (
+                     8406,
+                     'FC Augsburg',
+                     'AUG'
+                 );
+
+INSERT INTO Team (
+                     id,
+                     long_name,
+                     short_name
+                 )
+                 VALUES (
+                     8426,
+                     'Partick Thistle F.C.',
+                     'PAR'
+                 );
+
+INSERT INTO Team (
+                     id,
+                     long_name,
+                     short_name
+                 )
+                 VALUES (
+                     8429,
+                     'Hamilton Academical FC',
+                     'HAM'
+                 );
+
+INSERT INTO Team (
+                     id,
+                     long_name,
+                     short_name
+                 )
+                 VALUES (
+                     8455,
+                     'Chelsea',
+                     'CHE'
+                 );
+
+INSERT INTO Team (
+                     id,
+                     long_name,
+                     short_name
+                 )
+                 VALUES (
+                     8456,
+                     'Manchester City',
+                     'MCI'
+                 );
+
+INSERT INTO Team (
+                     id,
+                     long_name,
+                     short_name
+                 )
+                 VALUES (
+                     8457,
+                     'Dunfermline Athletic',
+                     'DUN'
+                 );
+
+INSERT INTO Team (
+                     id,
+                     long_name,
+                     short_name
+                 )
+                 VALUES (
+                     8460,
+                     'SC Paderborn 07',
+                     'PAD'
+                 );
+
+INSERT INTO Team (
+                     id,
+                     long_name,
+                     short_name
+                 )
+                 VALUES (
+                     8462,
+                     'Portsmouth',
+                     'POR'
+                 );
+
+INSERT INTO Team (
+                     id,
+                     long_name,
+                     short_name
+                 )
+                 VALUES (
+                     8464,
+                     'N.E.C.',
+                     'NEC'
+                 );
+
+INSERT INTO Team (
+                     id,
+                     long_name,
+                     short_name
+                 )
+                 VALUES (
+                     8466,
+                     'Southampton',
+                     'SOU'
+                 );
+
+INSERT INTO Team (
+                     id,
+                     long_name,
+                     short_name
+                 )
+                 VALUES (
+                     8467,
+                     'St. Johnstone FC',
+                     'JOH'
+                 );
+
+INSERT INTO Team (
+                     id,
+                     long_name,
+                     short_name
+                 )
+                 VALUES (
+                     8472,
+                     'Sunderland',
+                     'SUN'
+                 );
+
+INSERT INTO Team (
+                     id,
+                     long_name,
+                     short_name
+                 )
+                 VALUES (
+                     8475,
+                     'Waasland-Beveren',
+                     'WAA'
+                 );
+
+INSERT INTO Team (
+                     id,
+                     long_name,
+                     short_name
+                 )
+                 VALUES (
+                     8479,
+                     'RC Recreativo',
+                     'HUE'
+                 );
+
+INSERT INTO Team (
+                     id,
+                     long_name,
+                     short_name
+                 )
+                 VALUES (
+                     8481,
+                     'AS Nancy-Lorraine',
+                     'NAN'
+                 );
+
+INSERT INTO Team (
+                     id,
+                     long_name,
+                     short_name
+                 )
+                 VALUES (
+                     8483,
+                     'Blackpool',
+                     'BLA'
+                 );
+
+INSERT INTO Team (
+                     id,
+                     long_name,
+                     short_name
+                 )
+                 VALUES (
+                     8485,
+                     'Aberdeen',
+                     'ABE'
+                 );
+
+INSERT INTO Team (
+                     id,
+                     long_name,
+                     short_name
+                 )
+                 VALUES (
+                     8521,
+                     'Stade Brestois 29',
+                     'BRE'
+                 );
+
+INSERT INTO Team (
+                     id,
+                     long_name,
+                     short_name
+                 )
+                 VALUES (
+                     8524,
+                     'Atalanta',
+                     'ATA'
+                 );
+
+INSERT INTO Team (
+                     id,
+                     long_name,
+                     short_name
+                 )
+                 VALUES (
+                     8525,
+                     'Willem II',
+                     'WII'
+                 );
+
+INSERT INTO Team (
+                     id,
+                     long_name,
+                     short_name
+                 )
+                 VALUES (
+                     8526,
+                     'De Graafschap',
+                     'GRA'
+                 );
+
+INSERT INTO Team (
+                     id,
+                     long_name,
+                     short_name
+                 )
+                 VALUES (
+                     8528,
+                     'Wigan Athletic',
+                     'WIG'
+                 );
+
+INSERT INTO Team (
+                     id,
+                     long_name,
+                     short_name
+                 )
+                 VALUES (
+                     8529,
+                     'Cagliari',
+                     'CAG'
+                 );
+
+INSERT INTO Team (
+                     id,
+                     long_name,
+                     short_name
+                 )
+                 VALUES (
+                     8530,
+                     'Catania',
+                     'CAT'
+                 );
+
+INSERT INTO Team (
+                     id,
+                     long_name,
+                     short_name
+                 )
+                 VALUES (
+                     8533,
+                     'Chievo Verona',
+                     'CHI'
+                 );
+
+INSERT INTO Team (
+                     id,
+                     long_name,
+                     short_name
+                 )
+                 VALUES (
+                     8534,
+                     'Empoli',
+                     'EMP'
+                 );
+
+INSERT INTO Team (
+                     id,
+                     long_name,
+                     short_name
+                 )
+                 VALUES (
+                     8535,
+                     'Fiorentina',
+                     'FIO'
+                 );
+
+INSERT INTO Team (
+                     id,
+                     long_name,
+                     short_name
+                 )
+                 VALUES (
+                     8537,
+                     'Livorno',
+                     'LIV'
+                 );
+
+INSERT INTO Team (
+                     id,
+                     long_name,
+                     short_name
+                 )
+                 VALUES (
+                     8540,
+                     'Palermo',
+                     'PAL'
+                 );
+
+INSERT INTO Team (
+                     id,
+                     long_name,
+                     short_name
+                 )
+                 VALUES (
+                     8543,
+                     'Lazio',
+                     'LAZ'
+                 );
+
+INSERT INTO Team (
+                     id,
+                     long_name,
+                     short_name
+                 )
+                 VALUES (
+                     8548,
+                     'Rangers',
+                     'RAN'
+                 );
+
+INSERT INTO Team (
+                     id,
+                     long_name,
+                     short_name
+                 )
+                 VALUES (
+                     8549,
+                     'Mid,dlesbrough',
+                     'Mid,'
+                 );
+
+INSERT INTO Team (
+                     id,
+                     long_name,
+                     short_name
+                 )
+                 VALUES (
+                     8550,
+                     'FC Metz',
+                     'MET'
+                 );
+
+INSERT INTO Team (
+                     id,
+                     long_name,
+                     short_name
+                 )
+                 VALUES (
+                     8551,
+                     'Siena',
+                     'SIE'
+                 );
+
+INSERT INTO Team (
+                     id,
+                     long_name,
+                     short_name
+                 )
+                 VALUES (
+                     8558,
+                     'RCD Espanyol',
+                     'ESP'
+                 );
+
+INSERT INTO Team (
+                     id,
+                     long_name,
+                     short_name
+                 )
+                 VALUES (
+                     8559,
+                     'Bolton Wanderers',
+                     'BOL'
+                 );
+
+INSERT INTO Team (
+                     id,
+                     long_name,
+                     short_name
+                 )
+                 VALUES (
+                     8560,
+                     'Real Sociedad',
+                     'SOC'
+                 );
+
+INSERT INTO Team (
+                     id,
+                     long_name,
+                     short_name
+                 )
+                 VALUES (
+                     8564,
+                     'Milan',
+                     'ACM'
+                 );
+
+INSERT INTO Team (
+                     id,
+                     long_name,
+                     short_name
+                 )
+                 VALUES (
+                     8569,
+                     'GKS Bełchatów',
+                     'BEL'
+                 );
+
+INSERT INTO Team (
+                     id,
+                     long_name,
+                     short_name
+                 )
+                 VALUES (
+                     8571,
+                     'KV Kortrijk',
+                     'KOR'
+                 );
+
+INSERT INTO Team (
+                     id,
+                     long_name,
+                     short_name
+                 )
+                 VALUES (
+                     8573,
+                     'KV Oostende',
+                     'OOS'
+                 );
+
+INSERT INTO Team (
+                     id,
+                     long_name,
+                     short_name
+                 )
+                 VALUES (
+                     8576,
+                     'AC Ajaccio',
+                     'AJA'
+                 );
+
+INSERT INTO Team (
+                     id,
+                     long_name,
+                     short_name
+                 )
+                 VALUES (
+                     8581,
+                     'Levante UD',
+                     'LEV'
+                 );
+
+INSERT INTO Team (
+                     id,
+                     long_name,
+                     short_name
+                 )
+                 VALUES (
+                     8583,
+                     'AJ Auxerre',
+                     'AUX'
+                 );
+
+INSERT INTO Team (
+                     id,
+                     long_name,
+                     short_name
+                 )
+                 VALUES (
+                     8586,
+                     'Tottenham Hotspur',
+                     'TOT'
+                 );
+
+INSERT INTO Team (
+                     id,
+                     long_name,
+                     short_name
+                 )
+                 VALUES (
+                     8588,
+                     'RC Lens',
+                     'LEN'
+                 );
+
+INSERT INTO Team (
+                     id,
+                     long_name,
+                     short_name
+                 )
+                 VALUES (
+                     8592,
+                     'Olympique de Marseille',
+                     'MAR'
+                 );
+
+INSERT INTO Team (
+                     id,
+                     long_name,
+                     short_name
+                 )
+                 VALUES (
+                     8593,
+                     'Ajax',
+                     'AJA'
+                 );
+
+INSERT INTO Team (
+                     id,
+                     long_name,
+                     short_name
+                 )
+                 VALUES (
+                     8596,
+                     'Falkirk',
+                     'FAL'
+                 );
+
+INSERT INTO Team (
+                     id,
+                     long_name,
+                     short_name
+                 )
+                 VALUES (
+                     8597,
+                     'Kilmarnock',
+                     'KIL'
+                 );
+
+INSERT INTO Team (
+                     id,
+                     long_name,
+                     short_name
+                 )
+                 VALUES (
+                     8600,
+                     'Udinese',
+                     'UDI'
+                 );
+
+INSERT INTO Team (
+                     id,
+                     long_name,
+                     short_name
+                 )
+                 VALUES (
+                     8602,
+                     'Wolverhampton Wanderers',
+                     'WOL'
+                 );
+
+INSERT INTO Team (
+                     id,
+                     long_name,
+                     short_name
+                 )
+                 VALUES (
+                     8603,
+                     'Real Betis Balompié',
+                     'BET'
+                 );
+
+INSERT INTO Team (
+                     id,
+                     long_name,
+                     short_name
+                 )
+                 VALUES (
+                     8611,
+                     'FC Twente',
+                     'TWE'
+                 );
+
+INSERT INTO Team (
+                     id,
+                     long_name,
+                     short_name
+                 )
+                 VALUES (
+                     8613,
+                     'Boavista FC',
+                     'BOA'
+                 );
+
+INSERT INTO Team (
+                     id,
+                     long_name,
+                     short_name
+                 )
+                 VALUES (
+                     8614,
+                     'Sparta Rotterdam',
+                     'SPA'
+                 );
+
+INSERT INTO Team (
+                     id,
+                     long_name,
+                     short_name
+                 )
+                 VALUES (
+                     8633,
+                     'Real Madrid, CF',
+                     'REA'
+                 );
+
+INSERT INTO Team (
+                     id,
+                     long_name,
+                     short_name
+                 )
+                 VALUES (
+                     8634,
+                     'FC Barcelona',
+                     'BAR'
+                 );
+
+INSERT INTO Team (
+                     id,
+                     long_name,
+                     short_name
+                 )
+                 VALUES (
+                     8635,
+                     'RSC Anderlecht',
+                     'AND'
+                 );
+
+INSERT INTO Team (
+                     id,
+                     long_name,
+                     short_name
+                 )
+                 VALUES (
+                     8636,
+                     'Inter',
+                     'INT'
+                 );
+
+INSERT INTO Team (
+                     id,
+                     long_name,
+                     short_name
+                 )
+                 VALUES (
+                     8639,
+                     'LOSC Lille',
+                     'LIL'
+                 );
+
+INSERT INTO Team (
+                     id,
+                     long_name,
+                     short_name
+                 )
+                 VALUES (
+                     8640,
+                     'PSV',
+                     'PSV'
+                 );
+
+INSERT INTO Team (
+                     id,
+                     long_name,
+                     short_name
+                 )
+                 VALUES (
+                     8649,
+                     'Ross County FC',
+                     'ROS'
+                 );
+
+INSERT INTO Team (
+                     id,
+                     long_name,
+                     short_name
+                 )
+                 VALUES (
+                     8650,
+                     'Liverpool',
+                     'LIV'
+                 );
+
+INSERT INTO Team (
+                     id,
+                     long_name,
+                     short_name
+                 )
+                 VALUES (
+                     8654,
+                     'West Ham United',
+                     'WHU'
+                 );
+
+INSERT INTO Team (
+                     id,
+                     long_name,
+                     short_name
+                 )
+                 VALUES (
+                     8655,
+                     'Blackburn Rovers',
+                     'BLB'
+                 );
+
+INSERT INTO Team (
+                     id,
+                     long_name,
+                     short_name
+                 )
+                 VALUES (
+                     8658,
+                     'Birmingham City',
+                     'BIR'
+                 );
+
+INSERT INTO Team (
+                     id,
+                     long_name,
+                     short_name
+                 )
+                 VALUES (
+                     8659,
+                     'West Bromwich Albion',
+                     'WBA'
+                 );
+
+INSERT INTO Team (
+                     id,
+                     long_name,
+                     short_name
+                 )
+                 VALUES (
+                     8661,
+                     'RCD Mallorca',
+                     'MAL'
+                 );
+
+INSERT INTO Team (
+                     id,
+                     long_name,
+                     short_name
+                 )
+                 VALUES (
+                     8667,
+                     'Hull City',
+                     'HUL'
+                 );
+
+INSERT INTO Team (
+                     id,
+                     long_name,
+                     short_name
+                 )
+                 VALUES (
+                     8668,
+                     'Everton',
+                     'EVE'
+                 );
+
+INSERT INTO Team (
+                     id,
+                     long_name,
+                     short_name
+                 )
+                 VALUES (
+                     8673,
+                     'Legia Warszawa',
+                     'LEG'
+                 );
+
+INSERT INTO Team (
+                     id,
+                     long_name,
+                     short_name
+                 )
+                 VALUES (
+                     8674,
+                     'FC Groningen',
+                     'GRO'
+                 );
+
+INSERT INTO Team (
+                     id,
+                     long_name,
+                     short_name
+                 )
+                 VALUES (
+                     8678,
+                     'Bournemouth',
+                     'BOU'
+                 );
+
+INSERT INTO Team (
+                     id,
+                     long_name,
+                     short_name
+                 )
+                 VALUES (
+                     8682,
+                     'Le Mans FC',
+                     'LEM'
+                 );
+
+INSERT INTO Team (
+                     id,
+                     long_name,
+                     short_name
+                 )
+                 VALUES (
+                     8686,
+                     'Roma',
+                     'ROM'
+                 );
+
+INSERT INTO Team (
+                     id,
+                     long_name,
+                     short_name
+                 )
+                 VALUES (
+                     8689,
+                     'FC Lorient',
+                     'LOR'
+                 );
+
+INSERT INTO Team (
+                     id,
+                     long_name,
+                     short_name
+                 )
+                 VALUES (
+                     8690,
+                     'Reggio Calabria',
+                     'REG'
+                 );
+
+INSERT INTO Team (
+                     id,
+                     long_name,
+                     short_name
+                 )
+                 VALUES (
+                     8696,
+                     'Racing Santander',
+                     'SAN'
+                 );
+
+INSERT INTO Team (
+                     id,
+                     long_name,
+                     short_name
+                 )
+                 VALUES (
+                     8697,
+                     'SV Werder Bremen',
+                     'WBR'
+                 );
+
+INSERT INTO Team (
+                     id,
+                     long_name,
+                     short_name
+                 )
+                 VALUES (
+                     8721,
+                     'VfL Wolfsburg',
+                     'WOL'
+                 );
+
+INSERT INTO Team (
+                     id,
+                     long_name,
+                     short_name
+                 )
+                 VALUES (
+                     8722,
+                     '1. FC Köln',
+                     'FCK'
+                 );
+
+INSERT INTO Team (
+                     id,
+                     long_name,
+                     short_name
+                 )
+                 VALUES (
+                     9746,
+                     'Le Havre AC',
+                     'LEH'
+                 );
+
+INSERT INTO Team (
+                     id,
+                     long_name,
+                     short_name
+                 )
+                 VALUES (
+                     9747,
+                     'En Avant de Guingamp',
+                     'GUI'
+                 );
+
+INSERT INTO Team (
+                     id,
+                     long_name,
+                     short_name
+                 )
+                 VALUES (
+                     9748,
+                     'Olympique Lyonnais',
+                     'LYO'
+                 );
+
+INSERT INTO Team (
+                     id,
+                     long_name,
+                     short_name
+                 )
+                 VALUES (
+                     9761,
+                     'NAC Breda',
+                     'NAC'
+                 );
+
+INSERT INTO Team (
+                     id,
+                     long_name,
+                     short_name
+                 )
+                 VALUES (
+                     9764,
+                     'Gil Vicente FC',
+                     'GV'
+                 );
+
+INSERT INTO Team (
+                     id,
+                     long_name,
+                     short_name
+                 )
+                 VALUES (
+                     9765,
+                     'Portimonense',
+                     'POR'
+                 );
+
+INSERT INTO Team (
+                     id,
+                     long_name,
+                     short_name
+                 )
+                 VALUES (
+                     9768,
+                     'Sporting CP',
+                     'SCP'
+                 );
+
+INSERT INTO Team (
+                     id,
+                     long_name,
+                     short_name
+                 )
+                 VALUES (
+                     9771,
+                     'União de Leiria, SAD',
+                     'ULE'
+                 );
+
+INSERT INTO Team (
+                     id,
+                     long_name,
+                     short_name
+                 )
+                 VALUES (
+                     9772,
+                     'SL Benfica',
+                     'BEN'
+                 );
+
+INSERT INTO Team (
+                     id,
+                     long_name,
+                     short_name
+                 )
+                 VALUES (
+                     9773,
+                     'FC Porto',
+                     'POR'
+                 );
+
+INSERT INTO Team (
+                     id,
+                     long_name,
+                     short_name
+                 )
+                 VALUES (
+                     9776,
+                     'Eintracht Braunschweig',
+                     'BRA'
+                 );
+
+INSERT INTO Team (
+                     id,
+                     long_name,
+                     short_name
+                 )
+                 VALUES (
+                     9777,
+                     'Servette FC',
+                     'SER'
+                 );
+
+INSERT INTO Team (
+                     id,
+                     long_name,
+                     short_name
+                 )
+                 VALUES (
+                     9783,
+                     'RC Deportivo de La Coruña',
+                     'COR'
+                 );
+
+INSERT INTO Team (
+                     id,
+                     long_name,
+                     short_name
+                 )
+                 VALUES (
+                     9788,
+                     'Borussia Mönchengladbach',
+                     'GLA'
+                 );
+
+INSERT INTO Team (
+                     id,
+                     long_name,
+                     short_name
+                 )
+                 VALUES (
+                     9789,
+                     'Borussia Dortmund',
+                     'DOR'
+                 );
+
+INSERT INTO Team (
+                     id,
+                     long_name,
+                     short_name
+                 )
+                 VALUES (
+                     9790,
+                     'Hamburger SV',
+                     'HAM'
+                 );
+
+INSERT INTO Team (
+                     id,
+                     long_name,
+                     short_name
+                 )
+                 VALUES (
+                     9791,
+                     'Heracles Almelo',
+                     'HER'
+                 );
+
+INSERT INTO Team (
+                     id,
+                     long_name,
+                     short_name
+                 )
+                 VALUES (
+                     9798,
+                     'Reading',
+                     'REA'
+                 );
+
+INSERT INTO Team (
+                     id,
+                     long_name,
+                     short_name
+                 )
+                 VALUES (
+                     9800,
+                     'St. Mirren',
+                     'MIR'
+                 );
+
+INSERT INTO Team (
+                     id,
+                     long_name,
+                     short_name
+                 )
+                 VALUES (
+                     9803,
+                     'Roda JC Kerkrade',
+                     'ROD'
+                 );
+
+INSERT INTO Team (
+                     id,
+                     long_name,
+                     short_name
+                 )
+                 VALUES (
+                     9804,
+                     'Torino',
+                     'TOR'
+                 );
+
+INSERT INTO Team (
+                     id,
+                     long_name,
+                     short_name
+                 )
+                 VALUES (
+                     9807,
+                     'CF Os Belenenses',
+                     'BEL'
+                 );
+
+INSERT INTO Team (
+                     id,
+                     long_name,
+                     short_name
+                 )
+                 VALUES (
+                     9809,
+                     'Naval 1° de Maio',
+                     'NAV'
+                 );
+
+INSERT INTO Team (
+                     id,
+                     long_name,
+                     short_name
+                 )
+                 VALUES (
+                     9810,
+                     'Eintracht Frankfurt',
+                     'EFR'
+                 );
+
+INSERT INTO Team (
+                     id,
+                     long_name,
+                     short_name
+                 )
+                 VALUES (
+                     9817,
+                     'Watford',
+                     'WAT'
+                 );
+
+INSERT INTO Team (
+                     id,
+                     long_name,
+                     short_name
+                 )
+                 VALUES (
+                     9823,
+                     'FC Bayern Munich',
+                     'BMU'
+                 );
+
+INSERT INTO Team (
+                     id,
+                     long_name,
+                     short_name
+                 )
+                 VALUES (
+                     9824,
+                     'FC Vaduz',
+                     'VAD'
+                 );
+
+INSERT INTO Team (
+                     id,
+                     long_name,
+                     short_name
+                 )
+                 VALUES (
+                     9825,
+                     'Arsenal',
+                     'ARS'
+                 );
+
+INSERT INTO Team (
+                     id,
+                     long_name,
+                     short_name
+                 )
+                 VALUES (
+                     9826,
+                     'Crystal Palace',
+                     'CRY'
+                 );
+
+INSERT INTO Team (
+                     id,
+                     long_name,
+                     short_name
+                 )
+                 VALUES (
+                     9827,
+                     'Girondins de Bordeaux',
+                     'BOR'
+                 );
+
+INSERT INTO Team (
+                     id,
+                     long_name,
+                     short_name
+                 )
+                 VALUES (
+                     9829,
+                     'AS Monaco',
+                     'MON'
+                 );
+
+INSERT INTO Team (
+                     id,
+                     long_name,
+                     short_name
+                 )
+                 VALUES (
+                     9830,
+                     'FC Nantes',
+                     'NAN'
+                 );
+
+INSERT INTO Team (
+                     id,
+                     long_name,
+                     short_name
+                 )
+                 VALUES (
+                     9831,
+                     'OGC Nice',
+                     'NIC'
+                 );
+
+INSERT INTO Team (
+                     id,
+                     long_name,
+                     short_name
+                 )
+                 VALUES (
+                     9836,
+                     'Dijon FCO',
+                     'DIJ'
+                 );
+
+INSERT INTO Team (
+                     id,
+                     long_name,
+                     short_name
+                 )
+                 VALUES (
+                     9837,
+                     'Stade de Reims',
+                     'REI'
+                 );
+
+INSERT INTO Team (
+                     id,
+                     long_name,
+                     short_name
+                 )
+                 VALUES (
+                     9839,
+                     'VVV-Venlo',
+                     'VEN'
+                 );
+
+INSERT INTO Team (
+                     id,
+                     long_name,
+                     short_name
+                 )
+                 VALUES (
+                     9847,
+                     'Paris Saint-Germain',
+                     'PSG'
+                 );
+
+INSERT INTO Team (
+                     id,
+                     long_name,
+                     short_name
+                 )
+                 VALUES (
+                     9850,
+                     'Norwich City',
+                     'NOR'
+                 );
+
+INSERT INTO Team (
+                     id,
+                     long_name,
+                     short_name
+                 )
+                 VALUES (
+                     9851,
+                     'Stade Rennais FC',
+                     'REN'
+                 );
+
+INSERT INTO Team (
+                     id,
+                     long_name,
+                     short_name
+                 )
+                 VALUES (
+                     9853,
+                     'AS Saint-Étienne',
+                     'ETI'
+                 );
+
+INSERT INTO Team (
+                     id,
+                     long_name,
+                     short_name
+                 )
+                 VALUES (
+                     9855,
+                     'Grenoble Foot 38',
+                     'GRE'
+                 );
+
+INSERT INTO Team (
+                     id,
+                     long_name,
+                     short_name
+                 )
+                 VALUES (
+                     9857,
+                     'Bologna',
+                     'BOL'
+                 );
+
+INSERT INTO Team (
+                     id,
+                     long_name,
+                     short_name
+                 )
+                 VALUES (
+                     9858,
+                     'Brescia',
+                     'BRE'
+                 );
+
+INSERT INTO Team (
+                     id,
+                     long_name,
+                     short_name
+                 )
+                 VALUES (
+                     9860,
+                     'Heart of Mid,lothian',
+                     'HEA'
+                 );
+
+INSERT INTO Team (
+                     id,
+                     long_name,
+                     short_name
+                 )
+                 VALUES (
+                     9864,
+                     'Málaga CF',
+                     'MAL'
+                 );
+
+INSERT INTO Team (
+                     id,
+                     long_name,
+                     short_name
+                 )
+                 VALUES (
+                     9865,
+                     'UD Almería',
+                     'ALM'
+                 );
+
+INSERT INTO Team (
+                     id,
+                     long_name,
+                     short_name
+                 )
+                 VALUES (
+                     9867,
+                     'CD Tenerife',
+                     'TEN'
+                 );
+
+INSERT INTO Team (
+                     id,
+                     long_name,
+                     short_name
+                 )
+                 VALUES (
+                     9868,
+                     'Xerez Club Deportivo',
+                     'XER'
+                 );
+
+INSERT INTO Team (
+                     id,
+                     long_name,
+                     short_name
+                 )
+                 VALUES (
+                     9869,
+                     'Real Sporting de Gijón',
+                     'SPG'
+                 );
+
+INSERT INTO Team (
+                     id,
+                     long_name,
+                     short_name
+                 )
+                 VALUES (
+                     9873,
+                     'Valenciennes FC',
+                     'VAL'
+                 );
+
+INSERT INTO Team (
+                     id,
+                     long_name,
+                     short_name
+                 )
+                 VALUES (
+                     9874,
+                     'FC Sochaux-Montbéliard',
+                     'SOC'
+                 );
+
+INSERT INTO Team (
+                     id,
+                     long_name,
+                     short_name
+                 )
+                 VALUES (
+                     9875,
+                     'Napoli',
+                     'NAP'
+                 );
+
+INSERT INTO Team (
+                     id,
+                     long_name,
+                     short_name
+                 )
+                 VALUES (
+                     9876,
+                     'Hellas Verona',
+                     'VER'
+                 );
+
+INSERT INTO Team (
+                     id,
+                     long_name,
+                     short_name
+                 )
+                 VALUES (
+                     9878,
+                     'Pescara',
+                     'PES'
+                 );
+
+INSERT INTO Team (
+                     id,
+                     long_name,
+                     short_name
+                 )
+                 VALUES (
+                     9879,
+                     'Fulham',
+                     'FUL'
+                 );
+
+INSERT INTO Team (
+                     id,
+                     long_name,
+                     short_name
+                 )
+                 VALUES (
+                     9880,
+                     'Cesena',
+                     'CES'
+                 );
+
+INSERT INTO Team (
+                     id,
+                     long_name,
+                     short_name
+                 )
+                 VALUES (
+                     9882,
+                     'Sampdoria',
+                     'SAM'
+                 );
+
+INSERT INTO Team (
+                     id,
+                     long_name,
+                     short_name
+                 )
+                 VALUES (
+                     9885,
+                     'Juventus',
+                     'JUV'
+                 );
+
+INSERT INTO Team (
+                     id,
+                     long_name,
+                     short_name
+                 )
+                 VALUES (
+                     9888,
+                     'Lecce',
+                     'LEC'
+                 );
+
+INSERT INTO Team (
+                     id,
+                     long_name,
+                     short_name
+                 )
+                 VALUES (
+                     9891,
+                     'Frosinone',
+                     'FRO'
+                 );
+
+INSERT INTO Team (
+                     id,
+                     long_name,
+                     short_name
+                 )
+                 VALUES (
+                     9904,
+                     'Hannover 96',
+                     'HAN'
+                 );
+
+INSERT INTO Team (
+                     id,
+                     long_name,
+                     short_name
+                 )
+                 VALUES (
+                     9905,
+                     '1. FSV Mainz 05',
+                     'MAI'
+                 );
+
+INSERT INTO Team (
+                     id,
+                     long_name,
+                     short_name
+                 )
+                 VALUES (
+                     9906,
+                     'Atlético Madrid,',
+                     'AMA'
+                 );
+
+INSERT INTO Team (
+                     id,
+                     long_name,
+                     short_name
+                 )
+                 VALUES (
+                     9908,
+                     'FC Utrecht',
+                     'UTR'
+                 );
+
+INSERT INTO Team (
+                     id,
+                     long_name,
+                     short_name
+                 )
+                 VALUES (
+                     9910,
+                     'RC Celta de Vigo',
+                     'CEL'
+                 );
+
+INSERT INTO Team (
+                     id,
+                     long_name,
+                     short_name
+                 )
+                 VALUES (
+                     9911,
+                     'VfL Bochum',
+                     'BOC'
+                 );
+
+INSERT INTO Team (
+                     id,
+                     long_name,
+                     short_name
+                 )
+                 VALUES (
+                     9912,
+                     'DSC Arminia Bielefeld',
+                     'BIE'
+                 );
+
+INSERT INTO Team (
+                     id,
+                     long_name,
+                     short_name
+                 )
+                 VALUES (
+                     9925,
+                     'Celtic',
+                     'CEL'
+                 );
+
+INSERT INTO Team (
+                     id,
+                     long_name,
+                     short_name
+                 )
+                 VALUES (
+                     9927,
+                     'Motherwell',
+                     'MOT'
+                 );
+
+INSERT INTO Team (
+                     id,
+                     long_name,
+                     short_name
+                 )
+                 VALUES (
+                     9930,
+                     'FC Aarau',
+                     'AAR'
+                 );
+
+INSERT INTO Team (
+                     id,
+                     long_name,
+                     short_name
+                 )
+                 VALUES (
+                     9931,
+                     'FC Basel',
+                     'BAS'
+                 );
+
+INSERT INTO Team (
+                     id,
+                     long_name,
+                     short_name
+                 )
+                 VALUES (
+                     9938,
+                     'Dundee United',
+                     'DUU'
+                 );
+
+INSERT INTO Team (
+                     id,
+                     long_name,
+                     short_name
+                 )
+                 VALUES (
+                     9941,
+                     'Toulouse FC',
+                     'TOU'
+                 );
+
+INSERT INTO Team (
+                     id,
+                     long_name,
+                     short_name
+                 )
+                 VALUES (
+                     9956,
+                     'Grasshopper Club Zürich',
+                     'GRA'
+                 );
+
+INSERT INTO Team (
+                     id,
+                     long_name,
+                     short_name
+                 )
+                 VALUES (
+                     9976,
+                     'Bari',
+                     'BAR'
+                 );
+
+INSERT INTO Team (
+                     id,
+                     long_name,
+                     short_name
+                 )
+                 VALUES (
+                     9984,
+                     'KSV Cercle Brugge',
+                     'CEB'
+                 );
+
+INSERT INTO Team (
+                     id,
+                     long_name,
+                     short_name
+                 )
+                 VALUES (
+                     9985,
+                     'Standard de Liège',
+                     'STL'
+                 );
+
+INSERT INTO Team (
+                     id,
+                     long_name,
+                     short_name
+                 )
+                 VALUES (
+                     9986,
+                     'Sporting Charleroi',
+                     'CHA'
+                 );
+
+INSERT INTO Team (
+                     id,
+                     long_name,
+                     short_name
+                 )
+                 VALUES (
+                     9987,
+                     'KRC Genk',
+                     'GEN'
+                 );
+
+INSERT INTO Team (
+                     id,
+                     long_name,
+                     short_name
+                 )
+                 VALUES (
+                     9989,
+                     'Lierse SK',
+                     'LIE'
+                 );
+
+INSERT INTO Team (
+                     id,
+                     long_name,
+                     short_name
+                 )
+                 VALUES (
+                     9991,
+                     'KAA Gent',
+                     'GEN'
+                 );
+
+INSERT INTO Team (
+                     id,
+                     long_name,
+                     short_name
+                 )
+                 VALUES (
+                     9993,
+                     'Beerschot AC',
+                     'BAC'
+                 );
+
+INSERT INTO Team (
+                     id,
+                     long_name,
+                     short_name
+                 )
+                 VALUES (
+                     9994,
+                     'Sporting Lokeren',
+                     'LOK'
+                 );
+
+INSERT INTO Team (
+                     id,
+                     long_name,
+                     short_name
+                 )
+                 VALUES (
+                     9996,
+                     'Royal Excel Mouscron',
+                     'MOU'
+                 );
+
+INSERT INTO Team (
+                     id,
+                     long_name,
+                     short_name
+                 )
+                 VALUES (
+                     9997,
+                     'Sint-Truid,ense VV',
+                     'STT'
+                 );
+
+INSERT INTO Team (
+                     id,
+                     long_name,
+                     short_name
+                 )
+                 VALUES (
+                     9998,
+                     'RAEC Mons',
+                     'MON'
+                 );
+
+INSERT INTO Team (
+                     id,
+                     long_name,
+                     short_name
+                 )
+                 VALUES (
+                     9999,
+                     'KSV Roeselare',
+                     'ROS'
+                 );
+
+INSERT INTO Team (
+                     id,
+                     long_name,
+                     short_name
+                 )
+                 VALUES (
+                     10000,
+                     'SV Zulte-Waregem',
+                     'ZUL'
+                 );
+
+INSERT INTO Team (
+                     id,
+                     long_name,
+                     short_name
+                 )
+                 VALUES (
+                     10001,
+                     'KVC Westerlo',
+                     'WES'
+                 );
+
+INSERT INTO Team (
+                     id,
+                     long_name,
+                     short_name
+                 )
+                 VALUES (
+                     10003,
+                     'Swansea City',
+                     'SWA'
+                 );
+
+INSERT INTO Team (
+                     id,
+                     long_name,
+                     short_name
+                 )
+                 VALUES (
+                     10167,
+                     'Parma',
+                     'PAR'
+                 );
+
+INSERT INTO Team (
+                     id,
+                     long_name,
+                     short_name
+                 )
+                 VALUES (
+                     10172,
+                     'Queens Park Rangers',
+                     'QPR'
+                 );
+
+INSERT INTO Team (
+                     id,
+                     long_name,
+                     short_name
+                 )
+                 VALUES (
+                     10179,
+                     'FC Sion',
+                     'SIO'
+                 );
+
+INSERT INTO Team (
+                     id,
+                     long_name,
+                     short_name
+                 )
+                 VALUES (
+                     10189,
+                     'FC Schalke 04',
+                     'S04'
+                 );
+
+INSERT INTO Team (
+                     id,
+                     long_name,
+                     short_name
+                 )
+                 VALUES (
+                     10190,
+                     'FC St. Gallen',
+                     'GAL'
+                 );
+
+INSERT INTO Team (
+                     id,
+                     long_name,
+                     short_name
+                 )
+                 VALUES (
+                     10191,
+                     'FC Thun',
+                     'THU'
+                 );
+
+INSERT INTO Team (
+                     id,
+                     long_name,
+                     short_name
+                 )
+                 VALUES (
+                     10192,
+                     'BSC Young Boys',
+                     'YB'
+                 );
+
+INSERT INTO Team (
+                     id,
+                     long_name,
+                     short_name
+                 )
+                 VALUES (
+                     10194,
+                     'Stoke City',
+                     'STK'
+                 );
+
+INSERT INTO Team (
+                     id,
+                     long_name,
+                     short_name
+                 )
+                 VALUES (
+                     10199,
+                     'FC Luzern',
+                     'LUZ'
+                 );
+
+INSERT INTO Team (
+                     id,
+                     long_name,
+                     short_name
+                 )
+                 VALUES (
+                     10205,
+                     'Villarreal CF',
+                     'VIL'
+                 );
+
+INSERT INTO Team (
+                     id,
+                     long_name,
+                     short_name
+                 )
+                 VALUES (
+                     10211,
+                     'SC Beira Mar',
+                     'B-M'
+                 );
+
+INSERT INTO Team (
+                     id,
+                     long_name,
+                     short_name
+                 )
+                 VALUES (
+                     10212,
+                     'CS Marítimo',
+                     'MAR'
+                 );
+
+INSERT INTO Team (
+                     id,
+                     long_name,
+                     short_name
+                 )
+                 VALUES (
+                     10213,
+                     'Amadora',
+                     'AMA'
+                 );
+
+INSERT INTO Team (
+                     id,
+                     long_name,
+                     short_name
+                 )
+                 VALUES (
+                     10214,
+                     'CD Nacional',
+                     'NAC'
+                 );
+
+INSERT INTO Team (
+                     id,
+                     long_name,
+                     short_name
+                 )
+                 VALUES (
+                     10215,
+                     'Académica de Coimbra',
+                     'ACA'
+                 );
+
+INSERT INTO Team (
+                     id,
+                     long_name,
+                     short_name
+                 )
+                 VALUES (
+                     10217,
+                     'ADO Den Haag',
+                     'HAA'
+                 );
+
+INSERT INTO Team (
+                     id,
+                     long_name,
+                     short_name
+                 )
+                 VALUES (
+                     10218,
+                     'Excelsior',
+                     'EXC'
+                 );
+
+INSERT INTO Team (
+                     id,
+                     long_name,
+                     short_name
+                 )
+                 VALUES (
+                     10219,
+                     'RKC Waalwijk',
+                     'RKC'
+                 );
+
+INSERT INTO Team (
+                     id,
+                     long_name,
+                     short_name
+                 )
+                 VALUES (
+                     10228,
+                     'SC Heerenveen',
+                     'HEE'
+                 );
+
+INSERT INTO Team (
+                     id,
+                     long_name,
+                     short_name
+                 )
+                 VALUES (
+                     10229,
+                     'AZ',
+                     'ALK'
+                 );
+
+INSERT INTO Team (
+                     id,
+                     long_name,
+                     short_name
+                 )
+                 VALUES (
+                     10233,
+                     'Genoa',
+                     'GEN'
+                 );
+
+INSERT INTO Team (
+                     id,
+                     long_name,
+                     short_name
+                 )
+                 VALUES (
+                     10235,
+                     'Feyenoord',
+                     'FEY'
+                 );
+
+INSERT INTO Team (
+                     id,
+                     long_name,
+                     short_name
+                 )
+                 VALUES (
+                     10238,
+                     'Vitória Setúbal',
+                     'SET'
+                 );
+
+INSERT INTO Team (
+                     id,
+                     long_name,
+                     short_name
+                 )
+                 VALUES (
+                     10242,
+                     'ES Troyes AC',
+                     'TRO'
+                 );
+
+INSERT INTO Team (
+                     id,
+                     long_name,
+                     short_name
+                 )
+                 VALUES (
+                     10243,
+                     'FC Zürich',
+                     'ZUR'
+                 );
+
+INSERT INTO Team (
+                     id,
+                     long_name,
+                     short_name
+                 )
+                 VALUES (
+                     10249,
+                     'Montpellier Hérault SC',
+                     'MON'
+                 );
+
+INSERT INTO Team (
+                     id,
+                     long_name,
+                     short_name
+                 )
+                 VALUES (
+                     10251,
+                     'Hibernian',
+                     'HIB'
+                 );
+
+INSERT INTO Team (
+                     id,
+                     long_name,
+                     short_name
+                 )
+                 VALUES (
+                     10252,
+                     'Aston Villa',
+                     'AVL'
+                 );
+
+INSERT INTO Team (
+                     id,
+                     long_name,
+                     short_name
+                 )
+                 VALUES (
+                     10260,
+                     'Manchester United',
+                     'MUN'
+                 );
+
+INSERT INTO Team (
+                     id,
+                     long_name,
+                     short_name
+                 )
+                 VALUES (
+                     10261,
+                     'Newcastle United',
+                     'NEW'
+                 );
+
+INSERT INTO Team (
+                     id,
+                     long_name,
+                     short_name
+                 )
+                 VALUES (
+                     10264,
+                     'SC Braga',
+                     'BRA'
+                 );
+
+INSERT INTO Team (
+                     id,
+                     long_name,
+                     short_name
+                 )
+                 VALUES (
+                     10265,
+                     'Wisła Kraków',
+                     'WIS'
+                 );
+
+INSERT INTO Team (
+                     id,
+                     long_name,
+                     short_name
+                 )
+                 VALUES (
+                     10267,
+                     'Valencia CF',
+                     'VAL'
+                 );
+
+INSERT INTO Team (
+                     id,
+                     long_name,
+                     short_name
+                 )
+                 VALUES (
+                     10268,
+                     'Elche CF',
+                     'ELC'
+                 );
+
+INSERT INTO Team (
+                     id,
+                     long_name,
+                     short_name
+                 )
+                 VALUES (
+                     10269,
+                     'VfB Stuttgart',
+                     'STU'
+                 );
+
+INSERT INTO Team (
+                     id,
+                     long_name,
+                     short_name
+                 )
+                 VALUES (
+                     10278,
+                     'Hércules Club de Fútbol',
+                     'HER'
+                 );
+
+INSERT INTO Team (
+                     id,
+                     long_name,
+                     short_name
+                 )
+                 VALUES (
+                     10281,
+                     'Real Valladolid,',
+                     'VAL'
+                 );
+
+INSERT INTO Team (
+                     id,
+                     long_name,
+                     short_name
+                 )
+                 VALUES (
+                     108893,
+                     'AC Arles-Avignon',
+                     'ARL'
+                 );
+
+INSERT INTO Team (
+                     id,
+                     long_name,
+                     short_name
+                 )
+                 VALUES (
+                     158085,
+                     'FC Arouca',
+                     'ARO'
+                 );
+
+INSERT INTO Team (
+                     id,
+                     long_name,
+                     short_name
+                 )
+                 VALUES (
+                     177361,
+                     'Termalica Bruk-Bet Nieciecza',
+                     'TBN'
+                 );
+
+INSERT INTO Team (
+                     id,
+                     long_name,
+                     short_name
+                 )
+                 VALUES (
+                     188163,
+                     'Tondela',
+                     'TON'
+                 );
+
+INSERT INTO Team (
+                     id,
+                     long_name,
+                     short_name
+                 )
+                 VALUES (
+                     208931,
+                     'Carpi',
+                     'CAP'
+                 );
+
+INSERT INTO Team (
+                     id,
+                     long_name,
+                     short_name
+                 )
+                 VALUES (
+                     274581,
+                     'Royal Excel Mouscron',
+                     'MOP'
+                 );
+
+
+COMMIT TRANSACTION;
+PRAGMA foreign_keys = on;
